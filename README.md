@@ -1,2 +1,2 @@
-# PHP-Course
+# PHP
 
